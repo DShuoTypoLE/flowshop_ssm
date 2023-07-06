@@ -13,7 +13,6 @@ import javax.servlet.annotation.WebInitParam;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import javafx.application.Application;
 
 /**
  * Servlet Filter implementation class FilterEnconding
