@@ -15,7 +15,6 @@ import java.util.Random;
 import javax.imageio.ImageIO;
 import javax.imageio.stream.ImageOutputStream;
 
-import com.sun.imageio.plugins.common.ImageUtil;
 
 public class ImageCode {
 
